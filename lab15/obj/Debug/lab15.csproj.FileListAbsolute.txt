@@ -1,0 +1,10 @@
+C:\Users\energ\source\repos\lab15\bin\Debug\lab15.exe.config
+C:\Users\energ\source\repos\lab15\bin\Debug\lab15.exe
+C:\Users\energ\source\repos\lab15\bin\Debug\lab15.pdb
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.csprojAssemblyReference.cache
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.Form1.resources
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.exe
+C:\Users\energ\source\repos\lab15\obj\Debug\lab15.pdb
