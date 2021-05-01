@@ -1,0 +1,10 @@
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\bin\Debug\lab17Individ.exe.config
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\bin\Debug\lab17Individ.exe
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\bin\Debug\lab17Individ.pdb
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.csprojAssemblyReference.cache
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.Form1.resources
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.Properties.Resources.resources
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.csproj.GenerateResource.cache
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.csproj.CoreCompileInputs.cache
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.exe
+G:\СКФУ 2.2\Технологии программирования\Labs\lab17Individ\obj\Debug\lab17Individ.pdb
