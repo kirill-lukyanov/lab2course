@@ -1,0 +1,55 @@
+﻿<Window x:Class="lab19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab19"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="{x:Type Button}">
+            <Style.Triggers>
+                <Trigger Property="Control.IsMouseOver" Value="True">
+                    <Setter Property="Control.Foreground" Value="Purple"/>
+                </Trigger>
+            </Style.Triggers>
+            <Setter Property="Control.Foreground" Value="Green"/>
+        </Style>
+        <Style x:Key="style1">
+            <Setter Property="Shape.Fill" Value="Red"/>
+            <Setter Property="Shape.Stroke" Value="Black"/>
+        </Style>
+        <Style x:Key="style2">
+            <Setter Property="Shape.Fill" Value="Yellow"/>
+            <Setter Property="Shape.Stroke" Value="Black"/>
+            <Setter Property="Shape.StrokeThickness" Value="7"/>
+        </Style>
+        <Style x:Key="style3">
+            <Setter Property="Shape.Fill" Value="Green"/>
+            <Setter Property="Shape.Stroke" Value="Black"/>
+            <Setter Property="Shape.StrokeThickness" Value="3"/>
+        </Style>
+        <Style x:Key="style4">
+            <Setter Property="Shape.Fill" Value="Blue"/>
+            <Setter Property="Shape.Stroke" Value="Black"/>
+            <Setter Property="Shape.StrokeThickness" Value="3"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Name="ObjectsCount" ToolTip="Inter objects count" Margin="5" Text="10"/>
+            <Button Grid.Column="1" Click="Button_Click">Generate objects</Button>
+        </Grid>
+        <Canvas Name="MainCanvas" Grid.Row="1" Margin="5">
+
+        </Canvas>
+    </Grid>
+</Window>
